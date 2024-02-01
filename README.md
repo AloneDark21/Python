@@ -1,1 +1,1 @@
-# Python Prpjeleri
+# Python Çalışmalarım
