@@ -34,7 +34,7 @@ for kullanici in kullanici_listesi :
 print("\n********* SORU-3 **********")
 print("Kullanici uzmanlik alanina Frontend eklendi : ")
 kullanici3["Uzmanlik"].append("Frontend")
-print(kullanici3)
+print(kullanici_listesi)
 
 # soru-4 birden fazla uzmanlık alanı olan kullanıcıları listeleyiniz
 print("\n********* SORU-4 **********")
