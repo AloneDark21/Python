@@ -40,10 +40,10 @@ print(sayi_dondur()) # fonksiyona deger göndermememize ragmen parametre almış
 
 # ornek
 
-def buyk_sayi_dondur(a,b) :
+def buyuk_sayi_dondur(a,b) :
     if a > b :
         return a
     elif b > a :
         return b
     
-print(buyk_sayi_dondur(30,15)) # fonksiyona 2 deger gönderiyoruz fonksiyonda bize buyuk olan degeri geri döndürüyor
+print(buyuk_sayi_dondur(30,15)) # fonksiyona 2 deger gönderiyoruz fonksiyonda bize buyuk olan degeri geri döndürüyor
