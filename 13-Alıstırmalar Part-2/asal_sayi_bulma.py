@@ -1,5 +1,5 @@
 # verilen sayinin asal olup olmadıgını bulalım
-
+# en kucuk asal sayı 2 dir degerleri bu durumu göz onunda bulundurarak veriniz
 sayi = 41
 temp = 2
 
