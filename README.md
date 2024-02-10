@@ -1,2 +1,2 @@
 # Python Çalışmalarım
-# Çalışma  Kaynağı Yakın Kampüs 
+# Çalışma  Kaynağı Yakın Kampüs Youtube kanalı
