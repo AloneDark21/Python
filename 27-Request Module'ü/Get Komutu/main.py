@@ -5,7 +5,7 @@ belgeler_URL = "https://data.police.uk/api/forces"
 print(requests.get(belgeler_URL))
 response = requests.get(belgeler_URL)
 
-# 200 statü kodu islemin basarili bir sekilde gerçeklersmisitri demektir
+# 200 statü kodu islemin basarili bir sekilde gerçeklesmistir demektir
 # 400 statü kodu aradigimiz sayfanin bulunmadigi hatasidir
 
 print(response.status_code) # statu kodumuzu bu sekilde de ogernebiliriz
